@@ -1,0 +1,57 @@
+.section{
+    background-color: #333A56;
+    width: 400px;
+    height:400px;
+    margin-left: 550px;
+    padding-top: 10px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    color:white;
+    font-weight: bold;
+}
+.gap{
+    margin-left: 30px;
+}
+body{
+    background-color: #333A56;
+}
+label{
+    color: white;
+}
+#log{
+    height: 35px;
+    width: 342px;
+    color: white;
+    background-color: #5E6EA7;
+}
+input{
+    height: 30px;
+    width: 342px;
+    margin-bottom: 15px;
+}
+select{
+    height: 30px;
+    width: 342px;
+    margin-bottom: 15px;
+}
+svg{
+    color:white;
+    padding-bottom: 2px;
+}
+
+.forgot{
+    color:white;
+    text-align: center;
+    font-size: 13px;
+}
+.rightreserved{
+    color:white;
+    text-align: center;
+    font-size: 13px;
+
+}
